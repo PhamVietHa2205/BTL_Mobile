@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BTL_Mobile/MusicPlayer/app/src/main/res/drawable/ic_music.xml" value="0.121" />
+        <entry key="..\:/BTL_Mobile/MusicPlayer/app/src/main/res/layout/activity_main.xml" value="0.10989583333333333" />
+        <entry key="..\:/BTL_Mobile/MusicPlayer/app/src/main/res/layout/drawer_header_layout.xml" value="0.10989583333333333" />
+        <entry key="..\:/BTL_Mobile/MusicPlayer/app/src/main/res/layout/fragment_tab.xml" value="0.10989583333333333" />
+        <entry key="..\:/BTL_Mobile/MusicPlayer/app/src/main/res/layout/log_in.xml" value="0.10989583333333333" />
+        <entry key="..\:/BTL_Mobile/MusicPlayer/app/src/main/res/layout/player_layout.xml" value="0.10989583333333333" />
+        <entry key="..\:/BTL_Mobile/MusicPlayer/app/src/main/res/layout/playlist_items.xml" value="0.10989583333333333" />
+        <entry key="..\:/BTL_Mobile/MusicPlayer/app/src/main/res/layout/progress_bar.xml" value="0.10989583333333333" />
+        <entry key="..\:/BTL_Mobile/MusicPlayer/app/src/main/res/layout/sign_up.xml" value="0.10989583333333333" />
+        <entry key="..\:/BTL_Mobile/MusicPlayer/app/src/main/res/menu/action_bar_menu.xml" value="0.10989583333333333" />
+        <entry key="..\:/BTL_Mobile/MusicPlayer/app/src/main/res/menu/navigation_menu.xml" value="0.10989583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
